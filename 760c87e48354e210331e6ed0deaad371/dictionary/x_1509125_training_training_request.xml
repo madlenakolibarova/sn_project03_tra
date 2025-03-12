@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="008c87688354e210331e6ed0deaad381" extends="task" label="Training Request" max_length="40" name="x_1509125_training_training_request" type="collection"/>
+</database>
