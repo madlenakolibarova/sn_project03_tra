@@ -7,14 +7,14 @@
         <hint>This App manages training requests efficiently. Users can submit TRAs, admins can review and approve them, and automated flows handle reminders &amp; notifications.</hint>
         <name/>
         <order/>
-        <roles>admin</roles>
+        <roles>admin,training_admin,training_requester</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-12 11:20:45</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3b8d07288354e210331e6ed0deaad3b2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Training Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
         <sys_update_name>sys_app_application_3b8d07288354e210331e6ed0deaad3b2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-12 11:20:45</sys_updated_on>
+        <sys_updated_on>2025-03-19 12:49:32</sys_updated_on>
         <title>Training Request</title>
         <view_name/>
     </sys_app_application>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>AdminView</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-12 21:34:00</sys_created_on>
+        <sys_id>07e9157883502610331e6ed0deaad3f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AdminView</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_update_name>sys_ui_view_07e9157883502610331e6ed0deaad3f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-12 21:34:00</sys_updated_on>
+        <title>AdminView</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Training Request">760c87e48354e210331e6ed0deaad371</application>
+        <file_path/>
+        <instance_id>b2ed0f021ba271dcba5ceb9b2d4bcbd9</instance_id>
+        <instance_name>dev215868</instance_name>
+        <name>sys_ui_view_07e9157883502610331e6ed0deaad3f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>AdminView</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-12 21:34:00</sys_created_on><sys_id>07e9157883502610331e6ed0deaad3f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>AdminView</sys_name><sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package><sys_policy/><sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope><sys_update_name>sys_ui_view_07e9157883502610331e6ed0deaad3f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-12 21:34:00</sys_updated_on><title>AdminView</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>972048423</payload_hash>
+        <record_name>AdminView</record_name>
+        <reverted_from/>
+        <source>6f4c05b083102610331e6ed0deaad3ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-12 21:34:00</sys_created_on>
+        <sys_id>4fe9157883502610331e6ed0deaad3f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1958c47575f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-12 21:34:00</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>43e91578285026108e01aa86b3cddaf8</update_guid>
+        <update_guid_history>43e91578285026108e01aa86b3cddaf8:972048423</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 20:20:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>6d7fd0ebaf224faa9dbd70f596351ea9</sys_id>
+        <sys_metadata>07e9157883502610331e6ed0deaad3f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AdminView</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_scope_delete display_value="">2e45fa07981849c59abbc14cdb697a71</sys_scope_delete>
+        <sys_update_name>sys_ui_view_07e9157883502610331e6ed0deaad3f6</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_07e9157883502610331e6ed0deaad3f6">4fe9157883502610331e6ed0deaad3f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 20:20:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Insert a record into 'x_1509125_training_training_request' with the following values:
+Training Start = 2025-03-18 00:00:00
+and Training Topic = Data Imports - Import Sets &amp; Transform Maps
+and Short description = Training Request for ATF 1
+Confirm the record was successfully inserted</description>
+        <display_name>Record Insert</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Open a new Training Request form, populate required fields, and submit the request.</notes>
+        <order>4</order>
+        <step_config display_value="Record Insert">14872288df60220062fe6c7a4df26319</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 13:15:44</sys_created_on>
+        <sys_id>a0e02662835c6e10331e6ed0deaad337</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Record Insert</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_update_name>sys_atf_step_a0e02662835c6e10331e6ed0deaad337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:44:47</sys_updated_on>
+        <table>x_1509125_training_training_request</table>
+        <test display_value="Training Request Submission">fc7ede6e831c6e10331e6ed0deaad38c</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=a0e02662835c6e10331e6ed0deaad337"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>a0e02662835c6e10331e6ed0deaad337</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 13:15:44</sys_created_on>
+        <sys_id>2661e662835c6e10331e6ed0deaad34a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 13:15:44</sys_updated_on>
+        <value>training_start=2025-03-18 00:00:00^training_topic=7^short_description=Training Request for ATF 1^EQ</value>
+        <variable display_value="Field values">dd54cf535320220002c6435723dc34fd</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>a0e02662835c6e10331e6ed0deaad337</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 13:15:44</sys_created_on>
+        <sys_id>6261e662835c6e10331e6ed0deaad34a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 13:15:44</sys_updated_on>
+        <value>x_1509125_training_training_request</value>
+        <variable display_value="Table">90144b535320220002c6435723dc3488</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>a0e02662835c6e10331e6ed0deaad337</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 13:15:44</sys_created_on>
+        <sys_id>ae61e662835c6e10331e6ed0deaad349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 13:15:44</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Enforce security">e6e3c7535320220002c6435723dc3496</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>a0e02662835c6e10331e6ed0deaad337</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 13:15:44</sys_created_on>
+        <sys_id>ea61e662835c6e10331e6ed0deaad349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 13:15:44</sys_updated_on>
+        <value>record_successfully_inserted</value>
+        <variable display_value="Assert type">9024a37f671003007ba405225685efe5</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_14872288df60220062fe6c7a4df26319^id=a0e02662835c6e10331e6ed0deaad337"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Training Request">760c87e48354e210331e6ed0deaad371</application>
+        <file_path/>
+        <instance_id>b2ed0f021ba271dcba5ceb9b2d4bcbd9</instance_id>
+        <instance_name>dev215868</instance_name>
+        <name>sys_atf_step_a0e02662835c6e10331e6ed0deaad337</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Insert a record into 'x_1509125_training_training_request' with the following values:
+Training Start = 2025-03-18 00:00:00
+and Training Topic = Data Imports - Import Sets &amp; Transform Maps
+and Short description = Training Request for ATF 1
+Confirm the record was successfully inserted</description><display_name>Record Insert</display_name><inputs/><mugshots_cache_json/><notes>Open a new Training Request form, populate required fields, and submit the request.</notes><order>4</order><step_config display_value="Record Insert">14872288df60220062fe6c7a4df26319</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 13:15:44</sys_created_on><sys_id>a0e02662835c6e10331e6ed0deaad337</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Record Insert</sys_name><sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package><sys_policy/><sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope><sys_update_name>sys_atf_step_a0e02662835c6e10331e6ed0deaad337</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 14:44:47</sys_updated_on><table>x_1509125_training_training_request</table><test display_value="Training Request Submission">fc7ede6e831c6e10331e6ed0deaad38c</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=a0e02662835c6e10331e6ed0deaad337"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a0e02662835c6e10331e6ed0deaad337</document_key><order>400</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 13:15:44</sys_created_on><sys_id>2661e662835c6e10331e6ed0deaad34a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 13:15:44</sys_updated_on><value>training_start=2025-03-18 00:00:00^training_topic=7^short_description=Training Request for ATF 1^EQ</value><variable display_value="Field values">dd54cf535320220002c6435723dc34fd</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a0e02662835c6e10331e6ed0deaad337</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 13:15:44</sys_created_on><sys_id>6261e662835c6e10331e6ed0deaad34a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 13:15:44</sys_updated_on><value>x_1509125_training_training_request</value><variable display_value="Table">90144b535320220002c6435723dc3488</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a0e02662835c6e10331e6ed0deaad337</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 13:15:44</sys_created_on><sys_id>ae61e662835c6e10331e6ed0deaad349</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 13:15:44</sys_updated_on><value>1</value><variable display_value="Enforce security">e6e3c7535320220002c6435723dc3496</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a0e02662835c6e10331e6ed0deaad337</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 13:15:44</sys_created_on><sys_id>ea61e662835c6e10331e6ed0deaad349</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 13:15:44</sys_updated_on><value>record_successfully_inserted</value><variable display_value="Assert type">9024a37f671003007ba405225685efe5</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_14872288df60220062fe6c7a4df26319^id=a0e02662835c6e10331e6ed0deaad337"/></record_update>]]></payload>
+        <payload_hash>1265810229</payload_hash>
+        <record_name>Record Insert</record_name>
+        <reverted_from/>
+        <source>6f4c05b083102610331e6ed0deaad3ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:44:47</sys_created_on>
+        <sys_id>87c53e6e839c6e10331e6ed0deaad33b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195a9b6d9750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:44:47</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>0fc53e6e549c6e104bec9ea29ebf783a</update_guid>
+        <update_guid_history>0fc53e6e549c6e104bec9ea29ebf783a:1265810229,ca65b26e879c6e10b54a22b5236bf3f3:175968756,2261e6625a5c6e108ae7ce3109c3984c:-913872717</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:45:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>c51886e6263546bcbf798e23a84d8224</sys_id>
+        <sys_metadata>a0e02662835c6e10331e6ed0deaad337</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Insert</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_scope_delete display_value="">2e45fa07981849c59abbc14cdb697a71</sys_scope_delete>
+        <sys_update_name>sys_atf_step_a0e02662835c6e10331e6ed0deaad337</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_a0e02662835c6e10331e6ed0deaad337">87c53e6e839c6e10331e6ed0deaad33b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:45:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

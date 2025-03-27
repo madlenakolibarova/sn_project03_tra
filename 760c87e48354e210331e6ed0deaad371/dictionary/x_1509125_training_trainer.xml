@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="38bb5c8d83506610331e6ed0deaad349" label="Trainer" max_length="40" name="x_1509125_training_trainer" type="collection">
+        <element label="Trainer user" mandatory="true" max_length="32" name="trainer_user" reference="sys_user" type="reference"/>
+        <element label="Training Request" max_length="32" name="training_request" reference="x_1509125_training_training_request" type="reference"/>
+        <index name="index">
+            <element name="trainer_user"/>
+        </index>
+        <index name="index2">
+            <element name="training_request"/>
+        </index>
+    </element>
+</database>

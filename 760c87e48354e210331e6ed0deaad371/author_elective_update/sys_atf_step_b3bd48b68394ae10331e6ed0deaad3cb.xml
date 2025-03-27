@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open a new 'Catalog Task' form</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 21:09:17</sys_created_on>
+        <sys_id>b3bd48b68394ae10331e6ed0deaad3cb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_update_name>sys_atf_step_b3bd48b68394ae10331e6ed0deaad3cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 21:50:39</sys_updated_on>
+        <table>sc_task</table>
+        <test display_value="Training Request Submission">fc7ede6e831c6e10331e6ed0deaad38c</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=b3bd48b68394ae10331e6ed0deaad3cb"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b3bd48b68394ae10331e6ed0deaad3cb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 21:09:17</sys_created_on>
+        <sys_id>27cdc0f68394ae10331e6ed0deaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 21:09:17</sys_updated_on>
+        <value>sc_task</value>
+        <variable display_value="Table">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b3bd48b68394ae10331e6ed0deaad3cb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 21:09:17</sys_created_on>
+        <sys_id>63cdc0f68394ae10331e6ed0deaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 21:09:17</sys_updated_on>
+        <value>record</value>
+        <variable display_value="Record path">3a662f60a3023110571967d1361e6134</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b3bd48b68394ae10331e6ed0deaad3cb</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 21:09:17</sys_created_on>
+        <sys_id>a7cdc0f68394ae10331e6ed0deaad31c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 21:09:17</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">6f2a59a4e7133300b5646ea8c2f6a975</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b3bd48b68394ae10331e6ed0deaad3cb</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 21:09:17</sys_created_on>
+        <sys_id>afcdc0f68394ae10331e6ed0deaad31c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 21:09:17</sys_updated_on>
+        <value/>
+        <variable display_value="View">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_05317cd10b10220050192f15d6673af8^id=b3bd48b68394ae10331e6ed0deaad3cb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Training Request">760c87e48354e210331e6ed0deaad371</application>
+        <file_path/>
+        <instance_id>b2ed0f021ba271dcba5ceb9b2d4bcbd9</instance_id>
+        <instance_name>dev215868</instance_name>
+        <name>sys_atf_step_b3bd48b68394ae10331e6ed0deaad3cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open a new 'Catalog Task' form</description><display_name>Open a New Form</display_name><inputs/><mugshots_cache_json/><notes/><order>2</order><step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 21:09:17</sys_created_on><sys_id>b3bd48b68394ae10331e6ed0deaad3cb</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Open a New Form</sys_name><sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package><sys_policy/><sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope><sys_update_name>sys_atf_step_b3bd48b68394ae10331e6ed0deaad3cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 21:50:39</sys_updated_on><table>sc_task</table><test display_value="Training Request Submission">fc7ede6e831c6e10331e6ed0deaad38c</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=b3bd48b68394ae10331e6ed0deaad3cb"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b3bd48b68394ae10331e6ed0deaad3cb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 21:09:17</sys_created_on><sys_id>27cdc0f68394ae10331e6ed0deaad31d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 21:09:17</sys_updated_on><value>sc_task</value><variable display_value="Table">bb84ed825320220002c6435723dc3400</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b3bd48b68394ae10331e6ed0deaad3cb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 21:09:17</sys_created_on><sys_id>63cdc0f68394ae10331e6ed0deaad31d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 21:09:17</sys_updated_on><value>record</value><variable display_value="Record path">3a662f60a3023110571967d1361e6134</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b3bd48b68394ae10331e6ed0deaad3cb</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 21:09:17</sys_created_on><sys_id>a7cdc0f68394ae10331e6ed0deaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 21:09:17</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">6f2a59a4e7133300b5646ea8c2f6a975</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b3bd48b68394ae10331e6ed0deaad3cb</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 21:09:17</sys_created_on><sys_id>afcdc0f68394ae10331e6ed0deaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 21:09:17</sys_updated_on><value/><variable display_value="View">27d4e1c25320220002c6435723dc3486</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_05317cd10b10220050192f15d6673af8^id=b3bd48b68394ae10331e6ed0deaad3cb"/></record_update>]]></payload>
+        <payload_hash>1861645209</payload_hash>
+        <record_name>Open a New Form</record_name>
+        <reverted_from/>
+        <source>6f4c05b083102610331e6ed0deaad3ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 21:50:39</sys_created_on>
+        <sys_id>d147187683d4ae10331e6ed0deaad3b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195ab3cbce90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 21:50:39</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>5947187623d4ae10d56676bac578d9b4</update_guid>
+        <update_guid_history>5947187623d4ae10d56676bac578d9b4:1861645209,a3cdc0f6b294ae10bded44c320589a1f:1660365914</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 21:50:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>678f15e720bd49788751121a7c757c90</sys_id>
+        <sys_metadata>b3bd48b68394ae10331e6ed0deaad3cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_scope_delete display_value="">2e45fa07981849c59abbc14cdb697a71</sys_scope_delete>
+        <sys_update_name>sys_atf_step_b3bd48b68394ae10331e6ed0deaad3cb</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_b3bd48b68394ae10331e6ed0deaad3cb">d147187683d4ae10331e6ed0deaad3b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 21:50:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

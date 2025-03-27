@@ -13,19 +13,19 @@
         <mobile_title>Closed</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1509125_training_training_request</name>
-        <order>5</order>
+        <order>15</order>
         <override_menu_roles>false</override_menu_roles>
         <query>active=false^EQ</query>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>training_admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-12 11:20:45</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7b8d4fa88354e210331e6ed0deaad3d0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Closed</sys_name>
         <sys_overrides/>
         <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
         <sys_update_name>sys_app_module_7b8d4fa88354e210331e6ed0deaad3d0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-12 11:20:45</sys_updated_on>
+        <sys_updated_on>2025-03-18 09:01:37</sys_updated_on>
         <timeline_page/>
         <title>Closed</title>
         <uncancelable>false</uncancelable>

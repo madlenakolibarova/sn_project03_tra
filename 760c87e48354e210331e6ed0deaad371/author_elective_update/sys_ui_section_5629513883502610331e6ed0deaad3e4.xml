@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="x_1509125_training_training_request" section_id="5629513883502610331e6ed0deaad3e4" sys_domain="global" table="x_1509125_training_training_request" version="3" view="Admin_View">
+        <sys_ui_section action="DELETE">
+            <caption>x_1509125_training_training_request</caption>
+            <header>false</header>
+            <name>x_1509125_training_training_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-12 21:30:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5629513883502610331e6ed0deaad3e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1509125_training_training_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+            <sys_update_name>sys_ui_section_5629513883502610331e6ed0deaad3e4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-12 21:30:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Admin View" name="admin_view">b2dc6c709f002200f45c7b9ac42e70e5</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Training Request">760c87e48354e210331e6ed0deaad371</application>
+        <file_path/>
+        <instance_id>b2ed0f021ba271dcba5ceb9b2d4bcbd9</instance_id>
+        <instance_name>dev215868</instance_name>
+        <name>sys_ui_section_5629513883502610331e6ed0deaad3e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="x_1509125_training_training_request" section_id="5629513883502610331e6ed0deaad3e4" sys_domain="global" table="x_1509125_training_training_request" version="3" view="Admin_View"><sys_ui_section action="INSERT_OR_UPDATE"><caption>x_1509125_training_training_request</caption><header>false</header><name>x_1509125_training_training_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-12 21:30:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5629513883502610331e6ed0deaad3e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1509125_training_training_request</sys_name><sys_overrides/><sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package><sys_policy/><sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope><sys_update_name>sys_ui_section_5629513883502610331e6ed0deaad3e4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-12 21:30:40</sys_updated_on><sys_user/><title>false</title><view display_value="Admin View" name="admin_view">b2dc6c709f002200f45c7b9ac42e70e5</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>244084263</payload_hash>
+        <record_name>Training Request</record_name>
+        <reverted_from/>
+        <source>6f4c05b083102610331e6ed0deaad3ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-12 21:30:40</sys_created_on>
+        <sys_id>d629513883502610331e6ed0deaad3e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1958c444af70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-12 21:30:40</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5e2951388c5026104ea144b1e4153ae6</update_guid>
+        <update_guid_history>5e2951388c5026104ea144b1e4153ae6:244084263</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 20:51:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>467bb94be3fa4b50b24c986414a98299</sys_id>
+        <sys_metadata>5629513883502610331e6ed0deaad3e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1509125_training_training_request</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_parent display_value="Training Request">008c87688354e210331e6ed0deaad381</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_scope_delete display_value="">2e45fa07981849c59abbc14cdb697a71</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5629513883502610331e6ed0deaad3e4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5629513883502610331e6ed0deaad3e4">d629513883502610331e6ed0deaad3e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 20:51:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

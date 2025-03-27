@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Training Request">693f591283902e10331e6ed0deaad369</category>
+        <order>200</order>
+        <property display_value="x_1509125_training.THANKYOU.DELAY" name="x_1509125_training.THANKYOU.DELAY">d560259e83502e10331e6ed0deaad3bb</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-17 14:17:15</sys_created_on>
+        <sys_id>76a5a51a83902e10331e6ed0deaad3f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1509125_training.THANKYOU.DELAY.Training Request</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_76a5a51a83902e10331e6ed0deaad3f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-17 14:17:15</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

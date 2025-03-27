@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="008c87688354e210331e6ed0deaad381" extends="task" label="Training Request" max_length="40" name="x_1509125_training_training_request" type="collection"/>
+    <element db_object_id="008c87688354e210331e6ed0deaad381" extends="task" label="Training Request" max_length="40" name="x_1509125_training_training_request" type="collection">
+        <element label="Other Topic" mandatory="true" max_length="60" name="other_topic" type="string"/>
+        <element choice="1" label="Training Type" max_length="40" name="training_type" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Admin Type" value="1"/>
+                <element inactive_on_update="false" label="Dev Type" value="2"/>
+            </choice>
+        </element>
+        <element choice="2" label="ReminderSent" max_length="40" name="remindersent" read_only="true" type="boolean">
+            <choice/>
+        </element>
+        <element label="ThankYouEmailSent" max_length="40" name="thankyouemailsent" read_only="true" type="boolean"/>
+        <element choice="1" label="Training Topic" mandatory="true" max_length="40" name="training_topic" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Diagnostics &amp; Troubleshooting, Events &amp; Notifications" value="5"/>
+                <element inactive_on_update="false" label="Development Debugging" value="10"/>
+                <element inactive_on_update="false" label="Users &amp; Groups, Roles &amp; ACLs" value="2"/>
+                <element inactive_on_update="false" label="Service Portal Development Introduction" value="15"/>
+                <element inactive_on_update="false" label="Tables, Fields &amp; Field Types, Impersonation" value="1"/>
+                <element inactive_on_update="false" label="Core Applications (Incident, Problem, Change, Knowledge Management, Service Catalog)" value="3"/>
+                <element inactive_on_update="false" label="Ul Builder / Workspaces" value="16"/>
+                <element inactive_on_update="false" label="Other" value="20"/>
+                <element inactive_on_update="false" label="Scoped Applications" value="11"/>
+                <element inactive_on_update="false" label="Update Sets &amp; Version Control" value="6"/>
+                <element inactive_on_update="false" label="Basic Configuration &amp; System Properties, Dashboards, Reports" value="4"/>
+                <element inactive_on_update="false" label="Workflow Studio / Flow Designer in Detail" value="13"/>
+                <element inactive_on_update="false" label="Data Imports - Import Sets &amp; Transform Maps" value="7"/>
+                <element inactive_on_update="false" label="REST Integrations" value="14"/>
+                <element inactive_on_update="false" label="Service Catalog in Detail - Catalog Items, Record Producer" value="12"/>
+            </choice>
+        </element>
+        <element label="Training Start" mandatory="true" max_length="40" name="training_start" type="glide_date_time"/>
+    </element>
 </database>

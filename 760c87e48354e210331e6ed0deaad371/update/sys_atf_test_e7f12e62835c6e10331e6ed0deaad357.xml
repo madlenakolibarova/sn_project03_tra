@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>•	Validate that the appropriate assignment group or user is populated based on the business rules defined in the app.&#13;
+•	You can use form assertions to check the value of the Assigned to or Assignment group field.&#13;
+</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>2.	Assignment Rule Validation</name>
+        <parameters/>
+        <remember/>
+        <sn_atf_tg_generated>false</sn_atf_tg_generated>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 13:18:40</sys_created_on>
+        <sys_id>e7f12e62835c6e10331e6ed0deaad357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2.	Assignment Rule Validation</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_update_name>sys_atf_test_e7f12e62835c6e10331e6ed0deaad357</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 13:18:40</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=e7f12e62835c6e10331e6ed0deaad357"/>
+</record_update>

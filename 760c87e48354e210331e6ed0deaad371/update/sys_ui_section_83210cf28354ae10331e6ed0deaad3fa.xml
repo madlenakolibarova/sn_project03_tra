@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="83210cf28354ae10331e6ed0deaad3fa" sys_domain="global" table="x_1509125_training_training_request" version="3" view="Requester_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>09e01cfa8394ae10331e6ed0deaad3b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>45e01cfa8394ae10331e6ed0deaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>4de01cfa8394ae10331e6ed0deaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>45e01cfa8394ae10331e6ed0deaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>4de01cfa8394ae10331e6ed0deaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>45e01cfa8394ae10331e6ed0deaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>4de01cfa8394ae10331e6ed0deaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>45e01cfa8394ae10331e6ed0deaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>4de01cfa8394ae10331e6ed0deaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>training_start</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>45e01cfa8394ae10331e6ed0deaad3ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>training_topic</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>4de01cfa8394ae10331e6ed0deaad3ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>training_type</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>45e01cfa8394ae10331e6ed0deaad3bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other_topic</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>4de01cfa8394ae10331e6ed0deaad3bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>45e01cfa8394ae10331e6ed0deaad3bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>4de01cfa8394ae10331e6ed0deaad3bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_history</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>45e01cfa8394ae10331e6ed0deaad3bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_set</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>4de01cfa8394ae10331e6ed0deaad3bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 21:22:46</sys_created_on>
+            <sys_id>45e01cfa8394ae10331e6ed0deaad3be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1509125_training_training_request" sys_domain="global" view="c3210cf28354ae10331e6ed0deaad3f6">83210cf28354ae10331e6ed0deaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 21:22:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1509125_training_training_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-18 20:14:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83210cf28354ae10331e6ed0deaad3fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1509125_training_training_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+            <sys_update_name>sys_ui_section_83210cf28354ae10331e6ed0deaad3fa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-18 20:14:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Requester View" name="Requester_View">c3210cf28354ae10331e6ed0deaad3f6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

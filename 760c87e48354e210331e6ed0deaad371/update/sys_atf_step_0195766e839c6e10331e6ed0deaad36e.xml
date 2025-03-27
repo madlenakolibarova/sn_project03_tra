@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Set the following values on the form:
+Opened by = {{Step 1: Create a User.User}}
+and Training Topic = Basic Configuration &amp; System Properties, Dashboards, Reports
+and Training Start = 23.03.2025 00:00:00
+and Short description = Training Request for ATF 1</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Populate required fields, and submit the request with incorrect Training start value</notes>
+        <order>5</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:44:47</sys_created_on>
+        <sys_id>0195766e839c6e10331e6ed0deaad36e</sys_id>
+        <sys_mod_count>51</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Training Request" source="x_1509125_training">760c87e48354e210331e6ed0deaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training Request">760c87e48354e210331e6ed0deaad371</sys_scope>
+        <sys_update_name>sys_atf_step_0195766e839c6e10331e6ed0deaad36e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 15:21:30</sys_updated_on>
+        <table>x_1509125_training_training_request</table>
+        <test display_value="Training Request Submission">fc7ede6e831c6e10331e6ed0deaad38c</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=0195766e839c6e10331e6ed0deaad36e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0195766e839c6e10331e6ed0deaad36e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:44:47</sys_created_on>
+        <sys_id>0bc53e6e839c6e10331e6ed0deaad341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:44:47</sys_updated_on>
+        <value>x_1509125_training_training_request</value>
+        <variable display_value="Table">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0195766e839c6e10331e6ed0deaad36e</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:44:47</sys_created_on>
+        <sys_id>47c53e6e839c6e10331e6ed0deaad341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 14:44:47</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0195766e839c6e10331e6ed0deaad36e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:44:47</sys_created_on>
+        <sys_id>cbc53e6e839c6e10331e6ed0deaad341</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-24 14:40:24</sys_updated_on>
+        <value>opened_by={{step['e950662e831c6e10331e6ed0deaad384'].user}}^training_topic=4^training_start=23.03.2025 00:00:00^short_description=Training Request for ATF 1^EQ</value>
+        <variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=0195766e839c6e10331e6ed0deaad36e"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>0195766e839c6e10331e6ed0deaad36e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 14:44:47</sys_created_on>
+        <sys_id>c3c53e6e839c6e10331e6ed0deaad341</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-24 14:40:24</sys_updated_on>
+        <table>var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e</table>
+        <value>opened_by={{step['e950662e831c6e10331e6ed0deaad384'].user}}^training_topic=4^training_start=23.03.2025 00:00:00^short_description=Training Request for ATF 1^EQ</value>
+    </sys_element_mapping>
+</record_update>
